@@ -1,2 +1,11 @@
-/target
+/target/
+**/*.rs.bk
 Cargo.lock
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
+*.pb.rs
+OUT_DIR
